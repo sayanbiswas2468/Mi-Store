@@ -1,0 +1,80 @@
+*{
+    margin-bottom: 20px;
+    position: sticky;
+}
+.navBar1 {
+    background-color: white;
+    font-family: 'Camphor Pro VF', 'Camphor Pro', sans-serif;
+    position: absolute;
+    left: 100px;
+    top: 22px;
+    align-items: center;
+}
+
+.navBar1>a {
+    text-decoration: none;
+    padding: 24px;
+    color: rgb(89, 89, 89);
+    font-size: medium;
+    font-weight: lighter;
+    padding-bottom: 10px;
+    
+}
+
+.navBar2 {
+    background-color: white;
+    align-items: center;
+    font-family: 'Camphor Pro VF', 'Camphor Pro', sans-serif;
+    position: absolute;
+    right: 250px;
+    top: 22px;
+}
+
+.navBar1>a:hover {
+    border-bottom: 2px solid orangered;
+    text-decoration: none;
+    color: rgb(89, 89, 89);
+
+}
+
+.navBar2>a {
+    text-decoration: none;
+    padding: 24px;
+    color: rgb(89, 89, 89);
+    font-size: medium;
+    font-weight: lighter;
+    padding-bottom: 10px;
+
+}
+
+
+.navBar2>a:hover{
+    border-bottom:  2px solid orangered;
+    text-decoration: none;
+    color: rgb(89, 89, 89);
+
+}
+
+.logo {
+    width: 40px;
+    position: relative;
+    display: flex;
+    border-radius: 80%;
+    overflow: hidden;
+    cursor: pointer;
+    left: 28px;
+    top: 13px;
+}
+
+.leftIcons {
+    fill: rgb(89, 89, 89);
+    top: 13px;
+    position: absolute;
+    right: 8px;
+    display: flex;
+
+}
+
+.leftIcons>a {
+    padding-inline: 24px;
+}

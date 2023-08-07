@@ -1,0 +1,20 @@
+.HotAcessoriesMenu {
+    display: flex;
+    justify-content: center;
+}
+
+.HotAcessoriesLink {
+    text-decoration: none;
+    color: rgb(94, 94, 94);
+    margin: 1vmax;
+    padding: 0.5vmax 0;
+    font-family: 'Camphor Pro VF', 'Camphor Pro', sans-serif;
+
+}
+
+.HotAcessoriesLink:hover {
+    text-decoration: none;
+    color: orangered;
+    border-bottom: 2px solid orangered;
+    
+}
