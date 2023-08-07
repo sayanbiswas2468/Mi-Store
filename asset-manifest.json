@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Mi-Store-Clone/static/css/main.8b4d3e42.css",
+    "main.js": "/Mi-Store-Clone/static/js/main.537d343b.js",
+    "static/media/logo.jpg": "/Mi-Store-Clone/static/media/logo.0c8d5902f91b783a1616.jpg",
+    "index.html": "/Mi-Store-Clone/index.html",
+    "main.8b4d3e42.css.map": "/Mi-Store-Clone/static/css/main.8b4d3e42.css.map",
+    "main.537d343b.js.map": "/Mi-Store-Clone/static/js/main.537d343b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b4d3e42.css",
+    "static/js/main.537d343b.js"
+  ]
+}
